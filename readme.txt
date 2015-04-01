@@ -1,3 +1,6 @@
 ok fine
-123123
-master
+<<<<<<< HEAD
+done
+=======
+done
+>>>>>>> new
